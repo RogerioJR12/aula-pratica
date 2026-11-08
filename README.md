@@ -30,7 +30,7 @@ Botão Explore.<br>
 
 <h5>  🔗 Acesse o projeto  </h5>
 
-<a href="">  GitHub - We Care About Your Pet  </a>
+<a href="https://github.com/RogerioJR12/aula-pratica/tree/main">  GitHub - We Care About Your Pet  </a>
 
 Desenvolvido por RogerioJR12 
 
